@@ -22,6 +22,8 @@ To develop multiple predictive models and find the best predictive model using t
 * Find the variables having missing values and impute them.  
 * Perform outlier treatment if necessary
 
+## Model Building and Validation
+
 | Check Points                  | Aim                                                                                                                                                                                                                                                                                                         |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Model building without epochs | Experiment with hyperparameters, observe results and iterate them based on sound reasoning. Explanation of choice of hyperparameters based on the results obtained with each model.                                                                                                                         |
